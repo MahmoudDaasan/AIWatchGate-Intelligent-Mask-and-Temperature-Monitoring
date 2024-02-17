@@ -14,8 +14,7 @@ The Machine Learning model training code is well explained in this YouTube video
 2. When hand is close enough Temp sensor will check their body temp
 3. Simultaneously the camera detects mask on their face
 4. The gate opens only if their body temp within limits and wearing mask
-5. Buzzer goes off if body temp above normal detected
-6. For all other cases gate doesn't open execpt [4] 
+5. For all other cases gate doesn't open execpt [4] 
 
 **Circuit Diagram**
 ![gate_temp_ir](https://user-images.githubusercontent.com/50228728/118763542-a56db380-b895-11eb-8dc5-95f16776b63f.jpg)
