@@ -16,6 +16,7 @@ For Training the ML model I am using MobileNetV2 which is a very small and effic
 5. For all other cases gate doesn't open execpt [4] 
 
 **Circuit Diagram**
+
 ![circuit](https://github.com/MahmoudDaasan/Mask-and-Temperature-detector-main/assets/117162454/866db9ef-5ddc-4500-b475-9fad07242873)
 
 
