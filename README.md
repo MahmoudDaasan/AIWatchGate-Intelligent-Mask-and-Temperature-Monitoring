@@ -1,4 +1,4 @@
-# Mask-and-Temperature-detector
+# AIWatchGate: Intelligent Mask and Temperature Monitoring
 This project is made to avoid customers/people who are not wearing mask. The system checks people for mask and temperature at the entrance before opening the door.   
 
 Using Python and Machine Learning the program is able to distinguish between people wearing mask and people not wearing mask. 
