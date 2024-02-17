@@ -16,13 +16,15 @@ For Training the ML model I am using MobileNetV2 which is a very small and effic
 5. For all other cases gate doesn't open execpt [4] 
 
 **Circuit Diagram**
-![gate_temp_ir](https://user-images.githubusercontent.com/50228728/118763542-a56db380-b895-11eb-8dc5-95f16776b63f.jpg)
+![circuit](https://github.com/MahmoudDaasan/Mask-and-Temperature-detector-main/assets/117162454/866db9ef-5ddc-4500-b475-9fad07242873)
+
 
 **Real-Life Representation**
 Here is the real-life project image made by me.
-![final-box-hanging](https://user-images.githubusercontent.com/50228728/118765998-79543180-b899-11eb-9b9e-c1cb3af2a93e.jpg)
+![WhatsApp Image 2022-01-12 at 12 08 42 AM](https://github.com/MahmoudDaasan/Mask-and-Temperature-detector-main/assets/117162454/c85716f5-ebfd-4db9-bbb5-1f0cd5b46396)
+
 
 **Live working Demo**
-https://www.youtube.com/watch?v=qcFSD_tFuL4&t=10s
+https://www.youtube.com/watch?v=enurVth-rzc
 
 
